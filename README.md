@@ -25,16 +25,14 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Julia](https://img.shields.io/badge/-Julia-000?&logo=julia)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=matlab)
+
 
 ### Technologies
 
